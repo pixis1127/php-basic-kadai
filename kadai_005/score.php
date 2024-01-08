@@ -19,7 +19,9 @@
         $score10 = 60;
         // 合計
         $sam = $score1 + $score2 + $score3 + $score4 + $score5 + $score5 + $score6 + $score7 + $score8 + $score9 + $score10;
-        echo $sam / 10;
+        // 平均
+        $average = $sam / 10;
+        echo $average;
         ?>
     </p>
     
